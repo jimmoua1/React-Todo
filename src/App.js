@@ -17,6 +17,7 @@ class App extends React.Component {
         <Todo />
         <ul>
           <li>Chicken</li>
+          <li>Apples</li>
         </ul>
       </div>
     );
